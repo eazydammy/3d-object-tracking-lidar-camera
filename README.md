@@ -8,7 +8,7 @@ This project builds on components already implemented in the [Camera-Based 2D Fe
 
 These are described in the program schematic below in the _orange_ box.
 
-<img src="images/course_code_structure.png" width="779" height="414" />
+<img src="images/code_structure.png" width="779" height="414" />
 
 The missing parts in the schematic are implemented by completing the following three major tasks:
 
